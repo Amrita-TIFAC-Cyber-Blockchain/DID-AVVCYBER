@@ -115,4 +115,4 @@ interface avvcyberDID {
 ```
 
 ### Citeas
-Ramaguru R. Decentralized Identifier (DID) - DID:AVVCYBER - Specification (V1). (2022). TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore.
+Ramaguru R. Decentralized Identifier (DID) - DID:AVVCYBER - Specification (V1). (2022). TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore. Available in [Identity Decentralized](https://decentralized-id.com/web-standards/w3c/decentralized-identifier/did-methods/)
